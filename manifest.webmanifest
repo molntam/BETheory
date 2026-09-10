@@ -1,0 +1,12 @@
+{
+  "name": "BE Theory — Belgian Driving Theory",
+  "short_name": "BE Theory",
+  "description": "English study companion for the Flemish Category B driving theory exam.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
